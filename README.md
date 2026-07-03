@@ -22,7 +22,7 @@
 
 ### Who I am
 
-I'm a 2nd-year undergraduate in Mineral & Metallurgical Engineering at IIT (ISM) Dhanbad, self-directing a focused transition into **applied ML and open-source scientific software infrastructure**. My background gives me domain ownership — I understand the physical systems my models are predicting, not just the loss functions.
+I'm an undergraduate student in Mineral & Metallurgical Engineering at IIT (ISM) Dhanbad, self-directing a focused transition into **applied ML and open-source scientific software infrastructure**. My background gives me domain ownership — I understand the physical systems my models are predicting, not just the loss functions.
 
 My work lives at the intersection of rigorous ML engineering and real industrial problems: anomaly detection in time-series data, multi-task computer vision for industrial inspection, probabilistic simulation, and LLM-integrated process control systems.
 
@@ -32,7 +32,7 @@ My work lives at the intersection of rigorous ML engineering and real industrial
 
 | Area | Work |
 |---|---|
-| **Anomaly Detection** | HampelFilter for sktime (PR #9757, merged) · Blast furnace PCA anomaly pipeline |
+| **Anomaly Detection** | HampelFilter for sktime (PR #9757) · Blast furnace PCA anomaly pipeline |
 | **Computer Vision** | ScrapScan — multi-task EfficientNet-B0 · ONNX in-browser · Score-CAM explainability |
 | **Probabilistic Modeling** | FIFA WC 2026 Monte Carlo engine — 50K iterations, Dixon-Coles Poisson |
 | **LLM Integration** | Qwen2.5-7B process control layer translating SHAP outputs → operator guidance |
@@ -55,29 +55,29 @@ My work lives at the intersection of rigorous ML engineering and real industrial
 
 | Project | What it does | Key result |
 |---|---|---|
-| [Blast Furnace Slag Viscosity Controller](https://github.com/Saurabh6266/Blast-Furnace-Slag-Viscosity-Controller) | XGBoost+CatBoost+DNN ensemble + Qwen2.5-7B LLM, deployed on HF Spaces | ~0.97 Test R² |
-| [ScrapScan](https://github.com/Saurabh6266/ScrapScan) | Multi-task EfficientNet-B0, ONNX in-browser, JSW Steel R&D collab | 79.65% val acc · 0.88 F1 |
-| [FIFA WC 2026 Prediction Engine](https://github.com/Saurabh6266/FIFA-World-Cup-2026-Prediction) | 50K Monte Carlo iterations, Dixon-Coles, vectorized 50min→60sec | 56.5% accuracy on 69 live matches |
-| [Credit Card Fraud Detection](https://github.com/Saurabh6266/Credit-Card-Fraud-Detection) | LightGBM+XGBoost, SHAP, F2-optimized threshold | ROC-AUC 0.9845 |
+| [Blast Furnace Slag Viscosity Controller](https://github.com/Saurabh6266/dcg-slag-viscosity-controller) | XGBoost+CatBoost+DNN ensemble + Qwen2.5-7B LLM, deployed on HF Spaces | ~0.97 Test R² |
+| [ScrapScan](https://github.com/Saurabh6266/scrapscan) | Multi-task EfficientNet-B0, ONNX in-browser, JSW Steel R&D collab | 79.65% val acc · 0.88 F1 |
+| [FIFA WC 2026 Prediction Engine](https://github.com/Saurabh6266/fifa-wc-2026-prediction) | 50K Monte Carlo iterations, Dixon-Coles, vectorized 50min→60sec | 56.5% accuracy on 69 live matches |
+| [Credit Card Fraud Detection](https://github.com/Saurabh6266/credit-card-fraud-detection) | LightGBM+XGBoost, SHAP, F2-optimized threshold | ROC-AUC 0.9845 |
 | [MetallurgyBench](https://github.com/Saurabh6266/MetallurgyBench) | LLM evaluation benchmark for industrial materials science reasoning | Design + task construction phase |
 
 ---
 
 ### 🛠 Tech Stack
 
-Languages:     Python · C · C++ · SQL
-ML & DL:       PyTorch · TensorFlow · XGBoost · LightGBM · scikit-learn · Optuna · SHAP · ONNX
-CV:            EfficientNet · OpenCV · Score-CAM
-LLMs:          Hugging Face Transformers · Qwen2.5 (inference + explanation pipelines)
-Data:          NumPy · Pandas · SciPy · Matplotlib · Seaborn
-Tools:         Git · Gradio · Hugging Face Spaces · Jupyter · Google Colab
+Languages:     Python · C · C++ · SQL     
+ML & DL:       PyTorch · TensorFlow · XGBoost · LightGBM · scikit-learn · Optuna · SHAP · ONNX      
+CV:            EfficientNet · OpenCV · Score-CAM       
+LLMs:          Hugging Face Transformers · Qwen2.5 (inference + explanation pipelines)      
+Data:          NumPy · Pandas · SciPy · Matplotlib · Seaborn      
+Tools:         Git · Gradio · Hugging Face Spaces · Jupyter · Google Colab      
 
 ---
 
 ### 📌 Currently
 
 - 🏢 **ML Engineering Intern** @ FlyRank AI *(Jul – Aug 2026)*
-- 🔬 **AI/ML Researcher** @ SISTER 2026, Dubai Computer Science Society / Synthica *(Jul – Aug 2026)*
+- 🔬 **AI/ML Researcher** @ Dubai Computer Science Society *(Jul – Aug 2026)*
 - 🌏 **Data Science Fellow** @ Matsuo-Iwasawa Lab, University of Tokyo *(Apr 2026 – ongoing)*
 - 📖 Building **MetallurgyBench** — the first LLM evaluation benchmark for industrial
   materials science process reasoning
