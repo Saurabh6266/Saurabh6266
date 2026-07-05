@@ -67,7 +67,7 @@ My work lives at the intersection of rigorous ML engineering and real industrial
 
 Languages:     Python · C · C++ · SQL     
 ML & DL:       PyTorch · TensorFlow · XGBoost · LightGBM · scikit-learn · Optuna · SHAP · ONNX      
-CV:            EfficientNet · OpenCV · Score-CAM       
+Computer Vision:            EfficientNet · OpenCV · Score-CAM       
 LLMs:          Hugging Face Transformers · Qwen2.5 (inference + explanation pipelines)      
 Data:          NumPy · Pandas · SciPy · Matplotlib · Seaborn      
 Tools:         Git · Gradio · Hugging Face Spaces · Jupyter · Google Colab      
@@ -76,9 +76,9 @@ Tools:         Git · Gradio · Hugging Face Spaces · Jupyter · Google Colab
 
 ### 📌 Currently
 
-- 🏢 **ML Engineering Intern** @ FlyRank AI *(Jul – Aug 2026)*
-- 🔬 **AI/ML Researcher** @ Dubai Computer Science Society *(Jul – Aug 2026)*
-- 🌏 **Data Science Fellow** @ Matsuo-Iwasawa Lab, University of Tokyo *(Apr 2026 – ongoing)*
+- 🏢 **ML Engineering Intern** @ FlyRank AI *(Jul 2026 – Present)*
+- 🔬 **AI/ML Researcher** @ Dubai Computer Science Society *(Jul 2026 - Present)*
+- 🌏 **Data Science Fellow** @ Matsuo-Iwasawa Lab, University of Tokyo *(Apr 2026 – Present)*
 - 📖 Building **MetallurgyBench** — the first LLM evaluation benchmark for industrial
   materials science process reasoning
 
