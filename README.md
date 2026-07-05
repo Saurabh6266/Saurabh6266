@@ -56,9 +56,9 @@ My work lives at the intersection of rigorous ML engineering and real industrial
 | Project | What it does | Key result |
 |---|---|---|
 | [Blast Furnace Slag Viscosity Controller](https://github.com/Saurabh6266/dcg-slag-viscosity-controller) | XGBoost+CatBoost+DNN ensemble + Qwen2.5-7B LLM, deployed on HF Spaces | ~0.97 Test R² |
-| [ScrapScan](https://github.com/Saurabh6266/scrapscan) | Multi-task EfficientNet-B0, ONNX in-browser, JSW Steel R&D collab | 79.65% val acc · 0.88 F1 |
 | [FIFA WC 2026 Prediction Engine](https://github.com/Saurabh6266/fifa-wc-2026-prediction) | 50K Monte Carlo iterations, Dixon-Coles, vectorized 50min→60sec | 56.5% accuracy on 69 live matches |
 | [Credit Card Fraud Detection](https://github.com/Saurabh6266/credit-card-fraud-detection) | LightGBM+XGBoost, SHAP, F2-optimized threshold | ROC-AUC 0.9845 |
+| [F1 Pit Stop Duration Prediction](https://github.com/Saurabh6266/f1-pitstop-duration-prediction) | 12-model stacked ensemble (XGBoost/LightGBM), time-aware CV, SHAP interpretability | Identified 2009-10 covariate shift · sklearn GB outperformed XGBoost |
 | [MetallurgyBench](https://github.com/Saurabh6266/MetallurgyBench) | LLM evaluation benchmark for industrial materials science reasoning | Design + task construction phase |
 
 ---
