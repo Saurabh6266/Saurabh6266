@@ -78,7 +78,6 @@ Tools:         Git · Gradio · Hugging Face Spaces · Jupyter · Google Colab
 
 - 🏢 **ML Engineering Intern** @ FlyRank AI *(Jul 2026 – Present)*
 - 🔬 **AI/ML Researcher** @ Dubai Computer Science Society *(Jul 2026 - Present)*
-- 🌏 **Data Science Fellow** @ Matsuo-Iwasawa Lab, University of Tokyo *(Apr 2026 – Present)*
 - 📖 Building **MetallurgyBench** — the first LLM evaluation benchmark for industrial
   materials science process reasoning
 
