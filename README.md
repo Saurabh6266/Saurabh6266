@@ -69,4 +69,4 @@ Other projects: FIFA World Cup 2026 Monte Carlo Engine · Credit Card Fraud Dete
 ## Get in touch
 
 I am open to research collaborations, internships and open-source work in ML for materials, manufacturing and LLM evaluation.
-📧 saurabh.iitian62@gmail.com · [LinkedIn](https://www.linkedin.com/in/saurabh-gupta0962) · [Hugging Face](https://huggingface.co/saurabh0962)
+📧 saurabh.iitian62@gmail.com · [LinkedIn](https://www.linkedin.com/in/saurabhguptaml) · [Hugging Face](https://huggingface.co/saurabh0962)
