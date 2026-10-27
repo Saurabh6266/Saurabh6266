@@ -44,7 +44,6 @@ Other projects: FIFA World Cup 2026 Monte Carlo Engine · Credit Card Fraud Dete
 
 ## Tools I use
 
-| | |
 |---|---|
 | **Languages** | Python, C++, SQL |
 | **ML / DL** | PyTorch, TensorFlow, scikit-learn, XGBoost, CatBoost, Optuna, SHAP |
